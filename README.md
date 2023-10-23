@@ -8,4 +8,4 @@ Newer methods include word embeddings and BERT.
 
 **CW:** This project contains examples of offensive and prejudicial comments aimed at ethnic groups and religions. They do not in any way reflect my views. Please read with care. 
 
-Data available upon request. 
+Data available upon request. A fully annotated list of comments is available. 
